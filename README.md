@@ -1,2 +1,19 @@
-# -comfort-crochet-research
-This project investigates whether making and receiving a handmade crocheted comfort iteam can help reduce stress and anxiety and improve the emotional well-being in teens. Using anonymous surveys before and after participants crochet, I will analyze the results to better understand how crocheting comfort iteams affects teen mental health well-being. 
+# 🧶 Comfort Crochet Research
+
+## About
+This project investigates whether making and receiving handmade crocheted comfort items can help reduce stress and anxiety while improving emotional well-being in teenagers.
+
+## Research Question
+Can crocheting handmade comfort items positively impact teen mental health?
+
+## Method
+- Anonymous survey before crocheting
+- Participants crochet a comfort item
+- Anonymous survey after crocheting
+- Compare the results
+
+## Goal
+To explore whether crochet can be used as a simple, accessible tool to support emotional well-being in teens.
+
+## Status
+🟡 Planning and recruiting participants.
